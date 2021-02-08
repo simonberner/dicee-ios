@@ -4,8 +4,8 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var diceImageView1: UIImageView!
     @IBOutlet weak var diceImageView2: UIImageView!
-    let leftDiceNumber = Int.random(in:0...5)
-    let rightDiceNumber = Int.random(in:0...5)
+    var leftDiceNumber = Int.random(in:0...5)
+    var rightDiceNumber = Int.random(in:0...5)
 
     
     override func viewDidLoad() {
