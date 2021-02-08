@@ -1,0 +1,3 @@
+= Dicee
+
+My 1st tiny iOS App! 🥳 Implemented with the help from [The App Brewery](https://www.appbrewery.co/)
